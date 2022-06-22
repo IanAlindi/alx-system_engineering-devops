@@ -1,1 +1,1 @@
-My readme
+echo 'New repo'
